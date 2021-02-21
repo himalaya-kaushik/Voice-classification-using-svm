@@ -4,4 +4,4 @@ The data is a numerical data containing pitch , frequency and amplitude of voice
 
 Using SVM we classify data .
 
-I use rbf','poly','linear' kernels and test and compare there accuracy and display the result.
+I use rbf','poly','linear' kernels and test and compare there accuracy and display the result and compare them
